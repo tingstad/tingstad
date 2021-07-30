@@ -1,9 +1,7 @@
 👋 Hi, I’m Richard @tingstad
 📫 You can reach me at first.last name gmail.com
 
-See my [repos](https://github.com/tingstad?tab=repositories) of hobby experiments.
-
-Occationally, I contribute small fixes and corrections to open souce projects, such as:
+See my [repos](https://github.com/tingstad?tab=repositories) of hobby experiments. Small open source contributions:
 
 - :bug: [hibernate/hibernate-orm/pull/916](https://github.com/hibernate/hibernate-orm/pull/916) ([5adf730](https://github.com/hibernate/hibernate-orm/commit/5adf730c427253366b3665e5080381820c015c93)), [gustavo-depaula/stalin-sort/pull/93](https://github.com/gustavo-depaula/stalin-sort/pull/93)
 - :broom: [crista/exercises-in-programming-style/pull/39](https://github.com/crista/exercises-in-programming-style/pull/39)
